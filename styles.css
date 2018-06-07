@@ -1,0 +1,66 @@
+<style>
+  h1 {
+    color:white; font-size:24pt;
+    text-align:center;
+    font-family:arial,sans-serif
+  }
+  .menu {
+    color:white; font-size:12pt;
+    text-align:center;
+    font-family:arial,sans-serif;
+    font-weight:bold
+  }
+  a.nubex {
+    color: green;
+    user-select: none;
+    text-decoration: none;
+    background-color: #215bb7;
+    display:block;
+    text-align: center;
+    line-height:35px;
+    height:35px;
+   }
+  .nubex a:active {
+    background-color: #2e6bcc;
+  }
+  .nubex:hover {
+    background-color: #2e6bcc;
+  }
+  .main {
+      margin: 0 auto;
+      width: 1200px; /* Same width as the sidebar + left position in px */
+      font-size: 28px; /* Increased text to enable scrolling */
+  }
+  table.db{
+    border:1px solid #2e6bcc;
+  }
+  tr.emp{
+    background:#2e6bcc;
+  }
+  tr{
+    background: white;
+    border-color: black;
+  }
+  .db{
+    border-bottom:1px solid #2e6bcc;
+  }
+  p.head {
+    color: white;
+    font-size:12pt;
+    text-align:justify;
+    font-family:arial,sans-serif
+  }
+  p.foot {
+    color:white;
+    font-size:9pt;
+    text-align:center;
+    font-family:arial,sans-serif;
+    font-weight:bold
+  }
+  a:link,a:visited,a:active {
+    color:white
+  }
+
+
+
+</style>
